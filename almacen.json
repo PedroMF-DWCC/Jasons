@@ -1,0 +1,23 @@
+[
+    {
+        "tipo": "Telefono",
+        "marca": "Nothing",
+        "modelo": "Phone 2 256GB",
+        "cantidad": "3",
+        "descripcion": "Gris. Nuevo"
+    },
+    {
+        "tipo": "Telefono",
+        "marca": "Iphone",
+        "modelo": "14 256GB",
+        "cantidad": "1",
+        "descripcion": "Púrpura. Nuevo"
+    },
+    {
+        "tipo": "Coche",
+        "marca": "Ford",
+        "modelo": "Focus ST Mk2",
+        "cantidad": "1",
+        "descripcion": "Año 2007, 180.000KM"
+    }
+]
