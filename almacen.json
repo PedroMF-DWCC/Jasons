@@ -1,23 +1,23 @@
 [
     {
         "tipo": "Telefono",
-        "marca": "Nothing",
-        "modelo": "Phone 2 256GB",
-        "cantidad": "3",
-        "descripcion": "Gris. Nuevo"
+        "marca": "Wiko",
+        "modelo": "Wim 64GB",
+        "cantidad": "0",
+        "descripcion": "Descatalogado. (Extraido de BD JSON a través de symfony/http-client)"
     },
     {
-        "tipo": "Telefono",
-        "marca": "Iphone",
-        "modelo": "14 256GB",
-        "cantidad": "1",
-        "descripcion": "Púrpura. Nuevo"
+        "tipo": "TV",
+        "marca": "Samsung",
+        "modelo": "TQ43Q60DAUXXC 43\" UHD 4K",
+        "cantidad": "5",
+        "descripcion": "Smart TV, DVB-T2 (H.265), Titan Gray (Extraido de BD JSON a través de symfony/http-client)"
     },
     {
         "tipo": "Coche",
-        "marca": "Ford",
-        "modelo": "Focus ST Mk2",
+        "marca": "Audi",
+        "modelo": "A6 2.0TDI",
         "cantidad": "1",
-        "descripcion": "Año 2007, 180.000KM"
+        "descripcion": "Año 2019, 90.000KM (Extraido de BD JSON a través de symfony/http-client)"
     }
 ]
