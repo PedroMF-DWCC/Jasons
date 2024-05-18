@@ -10,7 +10,7 @@
         "tipo": "TV",
         "marca": "Samsung",
         "modelo": "TQ43Q60DAUXXC 43\" UHD 4K",
-        "cantidad": "5",
+        "cantidad": "4",
         "descripcion": "Smart TV, DVB-T2 (H.265), Titan Gray (Extraido de BD JSON a través de symfony/http-client)"
     },
     {
